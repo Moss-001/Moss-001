@@ -12,7 +12,7 @@
 
 ## 我的技能
 
-- **编程语言:** [Java, Python]
+- **编程语言:** [Java, Python,JavaScript]
 - **框架和库:** [暂无]
 - **工具和平台:** [列出你使用的工具和平台，例如：Git, Docker, Kubernetes, etc.]
 
