@@ -12,16 +12,15 @@
 
 ## 我的技能
 
-- **编程语言:** [Java, Python,JavaScript]
-- **框架和库:** [暂无]
-- **工具和平台:** [列出你使用的工具和平台，例如：Git, Docker, Kubernetes, etc.]
+- **编程语言:** [Java, Python,JavaScript,C++]
+- **框架和库:** [rs6补还镜框架]
 
 ## 项目
 
-### [awesome-python-spider]
-
-爬虫练习
-
+### [极验4滑块]
+已通过
+### [顶象滑块]
+已通过
 ### [rs6]
 
 已实现补还镜框架，可以过的vm2检测
